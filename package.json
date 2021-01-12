@@ -1,10 +1,14 @@
 {
   "name": "@reacticons/bootstrap-icons",
-  "version": "1.3.0-alpha.0",
+  "version": "1.3.0-beta.0",
   "bootstrapIconsVersion": "v1.3.0",
   "license": "MIT",
   "private": false,
   "author": "Alexander Schau <alexander@schau.email> (https://alexanderschau.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexanderschau/react-bootstrap-icons.git"
+  },
   "main": "lib/components/IonIcon.js",
   "files": [
     "lib/components/**/*"

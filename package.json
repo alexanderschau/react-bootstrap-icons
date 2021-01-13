@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/alexanderschau/react-bootstrap-icons.git"
   },
-  "main": "lib/components/IonIcon.js",
+  "main": "lib/components/Icon.js",
   "files": [
     "lib/components/**/*"
   ],

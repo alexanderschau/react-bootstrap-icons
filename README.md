@@ -1,6 +1,8 @@
 # Bootstrap Icons React Component
 
-This package contains a simple React Component, which implements the latest version of the [Bootstrap Icons](https://github.com/twbs/icons) into React (even with Typescript).
+![](hero.png)
+
+This package contains a simple React Component, which implements the latest version of [Bootstrap Icons](https://github.com/twbs/icons) into React.
 
 ## Install
 
@@ -36,3 +38,7 @@ This package supports all Bootstrap Icons of the matching version. To see a full
 ## Hint
 
 By the way, the `<Icon>` Component has the same attributes as a typical `<div>` element.
+
+## License
+MIT
+> This package is based on the open source Bootstrap Icons project.

@@ -9,10 +9,20 @@
     "type": "git",
     "url": "https://github.com/alexanderschau/react-bootstrap-icons.git"
   },
+  "keywords": [
+    "bootstrap",
+    "react",
+    "icons",
+    "typescript"
+  ],
   "main": "lib/components/Icon.js",
   "files": [
     "lib/components/**/*"
   ],
+  "types": "./lib/components/Icon.d.ts",
+  "exports": {
+    "import": "./lib/components/Icon.js"
+  },
   "scripts": {
     "build": "bash run-build.sh",
     "build-typescript": "tsc",

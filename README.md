@@ -40,5 +40,7 @@ This package supports all Bootstrap Icons of the matching version. To see a full
 By the way, the `<Icon>` Component has the same attributes as a typical `<div>` element.
 
 ## License
+
 MIT
+
 > This package is based on the open source Bootstrap Icons project.
